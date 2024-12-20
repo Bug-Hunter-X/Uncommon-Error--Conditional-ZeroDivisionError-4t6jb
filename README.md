@@ -1,0 +1,1 @@
+This repository demonstrates a Python function containing a conditional that can lead to a ZeroDivisionError depending on the input values.  The `bug.py` file shows the erroneous code. The solution (`bugSolution.py`) shows how to handle potential exceptions using `try-except` blocks.
